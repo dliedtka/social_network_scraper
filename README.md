@@ -1,4 +1,4 @@
-# linkedin_scraper
+# "Social Network" Scraper
 
 UPDATE: Doing this will get your account suspended/banned, did not read the ToS... have removed all references to the website.
 
